@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<student>
+    <person group = "305">
+        <name>John</name>
+        <telephone>89434523424</telephone>
+        <gender>male</gender>
+    </person>
+    <person group="308">
+        <name>Rose</name>
+        <telephone>4567898765434</telephone>
+        <gender>female</gender>
+    </person>
+</student>
